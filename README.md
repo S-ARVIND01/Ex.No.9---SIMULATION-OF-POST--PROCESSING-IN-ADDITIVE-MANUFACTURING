@@ -292,8 +292,6 @@ The size of the part: The size of the part will also affect the cooling process.
 
 The desired properties: The desired properties of the part will also affect the cooling process. For example, if the part needs to be strong and tough, it should be cooled slowly. If the part needs to be ductile, it can be cooled more quickly
 
-## Output:
-
 ### Name: S ARVIND
 ### Register Number: 212222240012
 
